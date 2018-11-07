@@ -1,7 +1,6 @@
 global key
 InitKeyboard();
 
-
 while 2
     color = brick.ColorColor(1);
     
@@ -108,7 +107,6 @@ switch color
     brick.StopMotor('A'); 
     brick.StopMotor('B');
    
-    %
     %
     %
     %
